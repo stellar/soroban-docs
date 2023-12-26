@@ -216,7 +216,7 @@ const GettingStarted = () => (
           index="3."
           title="Deploy to Testnet"
           subtitle="Deploy and invoke your contracts on Testnet."
-          href="/docs/getting-started/deploy-to-testnet"
+          href="/docs/getting-started/deploy-to-a-test-network"
         />
 
         <GettingStartedCard
